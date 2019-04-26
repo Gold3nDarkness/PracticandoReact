@@ -1,14 +1,18 @@
 export default[
     {
         title:'Inicio',
-        url: '/'
+        url: '#Inicio'
     },
     {
         title:'Conocenos',
-        url: '/'
+        url: '#Conocenos'
     },
     {
         title:'Galeria',
-        url: '/'
+        url: '#Galery'
+    },
+    {
+        title:'Contactanos',
+        url:'#Contactanos'
     }
 ]

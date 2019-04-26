@@ -2,3 +2,6 @@
     margin: 0 auto;
     width: 60%;
 }
+.Content div{
+    padding-bottom: 100%;
+}

@@ -5,9 +5,28 @@ class Content extends Component {
   render() {
     return (
       <div className="Content">
-            <h1>Bienvenido nuesta pagina</h1>
-            <span></span>
+            <div id="Inicio">
+            <h1>
+              Aqui ves el inicio
+            </h1>
+            </div>
+            <div id="Conocenos">
+            <h1>
+              Aqui nos conoces
+            </h1>
+            </div>
+            <div id="Galery">
+            <h1>
+              Aqui ves las imagenes
+            </h1>
+            </div>
+            <div id="Contactanos">
+            <h1>
+              Aqui nos contactas
+            </h1>
+            </div>
       </div>
+      
     );
   }
 }

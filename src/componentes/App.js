@@ -9,10 +9,12 @@ import Footer from './Global/Footer';
 import items from './data/menu.js';
 
 class App extends Component {
+
+
   render() {
     return (
       <div className="App">
-        <Header title="Gold3nDarkness" items={items} />
+        <Header title="Gold3n" title1="Darkness" items={items} />
         <Content />
         <Footer />
       </div>
